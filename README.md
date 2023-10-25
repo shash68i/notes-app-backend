@@ -10,3 +10,5 @@ Please navigate to the root of project and use the following commands to run the
 
 To start the server in watch mode `yarn dev`  
 To start the server `yarn start`
+
+Server should be running in PORT `8080`
