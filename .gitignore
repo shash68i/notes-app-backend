@@ -1,0 +1,24 @@
+# Directories
+node_modules/
+build/
+dist/
+coverage/
+
+# Environment variables
+.env
+config.env
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# User or system files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
